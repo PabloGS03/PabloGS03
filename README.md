@@ -5,8 +5,11 @@
 🚀 Sobre mí
 
 🔭 Actualmente estoy trabajando en aplicaciones web con React.
+
 🌱 Estoy aprendiendo TypeScript, php, devops.
-💬 Pregúntame sobre desarrollo web, bases de datos, programación en Python
+
+💬 Pregúntame sobre desarrollo web, bases de datos, programación en Python.
+
 📫 Contáctame en: pablogomezsalinas03@gmail.com
 
 🛠️ Tecnologías y herramientas
